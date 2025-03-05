@@ -5,8 +5,8 @@ import "./globals.css"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "SEO記事生成ツール",
-  description: "AIを使用してSEOに最適化された記事を生成するツール",
+  title: "キーワードから案ジェネレーター",
+  description: "キーワードを入力するだけで構成案を自動生成するツール",
 }
 
 export default function RootLayout({
