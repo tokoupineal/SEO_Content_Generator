@@ -1,9 +1,9 @@
 "use client";
 
 import { useState } from "react";
-import Header from "@/components/Header";
-import KeywordInput from "@/components/KeywordInput";
-import ArticleDisplay from "@/components/ArticleDisplay";
+import Header from "../components/Header";
+import KeywordInput from "../components/KeywordInput";
+import ArticleDisplay from "../components/ArticleDisplay";
 
 // 記事データの型定義
 export type ArticleData = {
